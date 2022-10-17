@@ -1,0 +1,13 @@
+#grid {
+  width: 400px;
+  height: 300px;
+  display: flex; /* using display: flex to get rid of the lines between the cards */
+  flex-wrap: wrap;
+}
+p {
+  font-family: sans-serif;
+  font-size: large;
+}
+h2 {
+  font-family: sans-serif;
+}
